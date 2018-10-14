@@ -16,8 +16,8 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/crash-override404/selfbot-py
-$ cd selfbot-py
+$ git clone https://github.com/arifistifik/HelloWorld2018
+$ cd HelloWorld2018
 $ python -m pip install -r requirements.txt
 $ python helloworld.py -a IOSIPAD
 ```
@@ -25,8 +25,8 @@ $ python helloworld.py -a IOSIPAD
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/crash-override404/selfbot-py
-$ cd selfbot-py
+$ git clone https://github.com/arifistifik/HelloWorld2018
+$ cd HelloWorld2018
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
 ```
@@ -50,4 +50,5 @@ Moe Poi ~ / [@moepoi](https://github.com/moepoi)
 Muhammad Fahri / [@FAHRIZTX](https://github.com/FAHRIZTX)  
 Dosugamea / [@Dosugamea](https://github.com/Dosugamea)  
 Dzin / [@dzingans](https://github.com/dzingans)  
+ 
 And others.
